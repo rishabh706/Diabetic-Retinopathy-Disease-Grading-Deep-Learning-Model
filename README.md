@@ -9,4 +9,4 @@ The purpose of this deep learning model is to predict the risk of diabetic retin
 
 4. Used random oversampling technique to handle imbalanced diabetic risk levels.
 
-5. Evaluated the performance with the help of confusion metric,precision,recall and f1 score.
+5. Evaluated the performance with the help of confusion matrix,precision,recall and f1 score.
