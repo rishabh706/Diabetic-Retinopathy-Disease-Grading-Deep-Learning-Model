@@ -7,6 +7,6 @@ The purpose of this deep learning model is to predict the risk of diabetic retin
 
 3. Trained using LightGBM algorithm.
 
-4. Used class weighting to handle imbalanced diabetic risk levels.
+4. Used class weighting technique to handle imbalanced diabetic risk levels.
 
 5. Evaluated the performance with the help of confusion matrix,accuracy,precision,recall and f1 score.
